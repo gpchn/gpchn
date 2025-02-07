@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+[![WakaTime Languages]("https://wakatime.com/share/@d2b815da-b0b0-4453-9ce9-a2180d4af304/6caffae3-4df3-410e-a996-2fd4df3c2f7a.png")](https://wakatime.com)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/gpchn?label=Follow)](https://twitter.com/intent/follow?screen_name=gpchn)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://gpchn.252123.xyz/)](https://gpchn.252123.xyz/)
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C675%20hrs%2050%20mins-blue)
