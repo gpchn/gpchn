@@ -1,7 +1,6 @@
 # Hi there! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gpchn?label=Follow)](https://twitter.com/intent/follow?screen_name=gpchn)
-![GitHub followers](https://img.shields.io/github/followers/gpchn?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://gpchn.252123.xyz/)](https://gpchn.252123.xyz/)
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C675%20hrs%2050%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-878-blue)
