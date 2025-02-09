@@ -7,7 +7,7 @@
 
 ## WakaTime (Update on 2025/2/9)
 
-![<img src="https://wakatime.com/share/@d2b815da-b0b0-4453-9ce9-a2180d4af304/7db20e75-a755-4841-aff1-ca11b9fb01db.svg" width=80% />](https://wakatime.com)
+<a href="https://wakatime.com/"><img src="https://wakatime.com/share/@d2b815da-b0b0-4453-9ce9-a2180d4af304/7db20e75-a755-4841-aff1-ca11b9fb01db.svg" width=80% /></a>
 
 ## GitHub Stats (Update to date)
 
