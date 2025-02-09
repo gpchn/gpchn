@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-<!-- WakaTime Languages -->
-<figure><embed src="https://wakatime.com/share/@d2b815da-b0b0-4453-9ce9-a2180d4af304/7db20e75-a755-4841-aff1-ca11b9fb01db.svg"></embed></figure>
+![WakaTime Languages](https://wakatime.com/share/@d2b815da-b0b0-4453-9ce9-a2180d4af304/7db20e75-a755-4841-aff1-ca11b9fb01db.svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gpchn?label=Follow)](https://twitter.com/intent/follow?screen_name=gpchn)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://gpchn.252123.xyz/)](https://gpchn.252123.xyz/)
