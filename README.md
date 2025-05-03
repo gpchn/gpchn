@@ -5,8 +5,6 @@
 
 ## WakaTime
 
-.. image:: https://wakatime.com/share/@d2b815da-b0b0-4453-9ce9-a2180d4af304/919444cb-c8db-4034-95d7-9156c1fe9604.png
-    :target: https://wakatime.com/
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d2b815da-b0b0-4453-9ce9-a2180d4af304/919444cb-c8db-4034-95d7-9156c1fe9604.png" width=80% /></a>
 
 ## GitHub Stats
