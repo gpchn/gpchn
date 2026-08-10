@@ -9,6 +9,7 @@
 - 🐍 Python 为主，偶尔写写别的
 - 🔭 什么都喜欢研究，最近在学操作系统和分布式
 - 📫 邮箱：gprogrammer@163.com
+- ⏰ 高三学业繁忙，更新节奏较慢
 
 ### 🏷️ 我的标签
 
@@ -83,5 +84,7 @@
 
 ### 🚀 精选项目
 
-- **[项目A](https://github.com/gpchn/project-A)** – 描述A
-- **[项目B](https://github.com/gpchn/project-B)** – 描述B
+- **[pico-ereader](https://github.com/gpchn/pico-ereader)** – Pico 小说阅读器，从零开始的完整制作教程（MicroPython）
+- **[BiliMusiq](https://github.com/gpchn/BiliMusiq)** – 基于哔哩哔哩的音乐播放器（Rust + Tauri + Vue）
+- **[QriaRSS](https://github.com/gpchn/QriaRSS)** – 简洁的 RSS 阅读器（Python + PyWebview）
+- **[data2img](https://github.com/gpchn/data2img)** – 将任意文件与 PNG 图片相互转换（Rust）
